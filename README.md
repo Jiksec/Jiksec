@@ -40,8 +40,3 @@
 
 ---
 
-## Donations:
-If you appreciate my projects or want to support my journey, feel free to donate!  
-
-[![Donate](https://img.shields.io/badge/Donate-FFDD00?style=for-the-badge&logo=bitcoin&logoColor=white)](TDNCDM1z9LUyBiaMJ6JjZj99PwphZ4Vs96)
-
