@@ -6,7 +6,7 @@
 🎓 **Computer Engineering Student**  
 💻 Passionate about **cybersecurity**, **programming**, and **vulnerability analysis**  
 🎯 My goal is **continuous learning** and becoming an **expert in cybersecurity**  
-📜 **Certified Ethical Hacker (CEH)** by EC-Council  
+📜 **Certified Ethical Hacker (CEH)** 
 
 ---
 
