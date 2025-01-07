@@ -13,7 +13,6 @@
 ## Connect With Me  
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudojik@gmail.com)    
-[![X (Twitter)](https://img.shields.io/badge/-X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/cyber_jik?t=3JWCLHPaLMQbSSERkkXmHQ&s=09/)  
 
 ---
 
